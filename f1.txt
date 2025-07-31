@@ -1,5 +1,3 @@
-String  name = "Saif";
-
 Good Mrng..
 
 Hello Java
