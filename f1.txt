@@ -25,10 +25,10 @@ boolean b = true;
 
 int tr = 66;
 
-<<<<<<< HEAD
+
 
 
 int cc = 77;
-=======
+
 Strin s = "sunny";
->>>>>>> 27d2378fdeb5b35da3d63a411f613297051ce320
+
