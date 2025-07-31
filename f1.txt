@@ -20,4 +20,8 @@ String str = "hi sam";
 
 double x = 11.7;
 
+
 boolean b = true;
+
+int tr = 66;
+
