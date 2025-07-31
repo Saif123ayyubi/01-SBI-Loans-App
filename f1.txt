@@ -1,3 +1,6 @@
 Good Mrng..
 
 Hello Java
+
+int i = 10;
+int j = 20;
