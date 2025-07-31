@@ -15,4 +15,8 @@ String name = "ashokit";
 boolean status = false;
 
 
+
 String str = "hi sam";
+
+double x = 11.7;
+
