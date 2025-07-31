@@ -20,3 +20,4 @@ String str = "hi sam";
 
 double x = 11.7;
 
+int tr = 66;
