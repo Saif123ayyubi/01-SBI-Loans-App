@@ -1,3 +1,7 @@
+public void m2(){//Task-102
+//logic
+}
+
 Good Mrng..
 
 Hello Java
