@@ -25,6 +25,8 @@ boolean b = true;
 
 int tr = 66;
 
+int d = 40;
+
 
 
 
