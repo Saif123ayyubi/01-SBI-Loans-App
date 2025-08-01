@@ -31,9 +31,10 @@ int d = 40;
 
 
 int cc = 77;
-int e = 50;
+
 
 Strin s = "sunny";
 
 
 int c = 50;
+int e = 50;
