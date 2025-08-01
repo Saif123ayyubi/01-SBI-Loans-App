@@ -34,3 +34,5 @@ int cc = 77;
 
 Strin s = "sunny";
 
+
+int c = 50;
